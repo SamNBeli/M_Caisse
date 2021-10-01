@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="dijss" uuid="ffa6e82f-38b2-4d00-a04a-2b5be6a1b919">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Workspace\JAVA\Project\INF1163_Projet_Equipe_X\dijss.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
